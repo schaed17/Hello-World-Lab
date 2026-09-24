@@ -1,1 +1,1 @@
-read me
+Class project "Hello World" for MI 349.
